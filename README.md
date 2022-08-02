@@ -83,7 +83,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%2032%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -91,16 +91,16 @@
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               19 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  19 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 01/08/2022 18:52:16 UTC
+ Last Updated on 02/08/2022 18:47:33 UTC
 <!--END_SECTION:waka-->
