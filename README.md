@@ -18,7 +18,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C907%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C904%20hrs%204%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,5 +45,5 @@ Windows                  10 hrs              ███████░░░░�
 ```
 
 
- Last Updated on 13/11/2023 18:36:38 UTC
+ Last Updated on 14/11/2023 18:35:40 UTC
 <!--END_SECTION:waka-->
