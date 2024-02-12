@@ -18,7 +18,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C183%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C191%20hrs%2028%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,15 +26,20 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 38 mins        ████████████████░░░░░░░░░   65.71 % 
+JSON                     30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Nix                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+scougi-library           2 hrs 29 mins       █████████████████████████   99.91 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/02/2024 18:35:52 UTC
+ Last Updated on 12/02/2024 18:35:47 UTC
 <!--END_SECTION:waka-->
