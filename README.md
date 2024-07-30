@@ -19,7 +19,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C772%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C779%20hrs%2022%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,15 +27,20 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     36 mins             ████████████████░░░░░░░░░   65.91 % 
+ERB                      14 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+access-management        51 mins             ███████████████████████░░   92.11 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    55 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/07/2024 18:39:29 UTC
+ Last Updated on 30/07/2024 18:39:33 UTC
 <!--END_SECTION:waka-->
