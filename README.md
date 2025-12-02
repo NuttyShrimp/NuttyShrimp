@@ -19,7 +19,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C514%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C514%20hrs%2024%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,5 +45,5 @@ Linux                    18 hrs 48 mins      ███████████�
 ```
 
 
- Last Updated on 01/12/2025 18:56:10 UTC
+ Last Updated on 02/12/2025 18:54:55 UTC
 <!--END_SECTION:waka-->
