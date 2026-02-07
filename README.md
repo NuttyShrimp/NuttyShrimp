@@ -27,17 +27,15 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               15 mins             ██████████████████████░░░   88.94 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Docker                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-infisical                17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/02/2026 19:12:19 UTC
+ Last Updated on 07/02/2026 19:00:08 UTC
 <!--END_SECTION:waka-->
