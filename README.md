@@ -19,7 +19,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C717%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C720%20hrs%2049%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,23 +27,23 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TeX                      9 hrs 10 mins       ████████████████░░░░░░░░░   64.32 % 
-Go                       3 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-TOML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TeX                      9 hrs 10 mins       ████████████████░░░░░░░░░   65.31 % 
+Go                       3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+TOML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🐱‍💻 Projects: 
-bap                      9 hrs 10 mins       ████████████████░░░░░░░░░   64.34 % 
-user-management          3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-request-portal           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-hortiroot-scanners       48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+bap                      9 hrs 10 mins       ████████████████░░░░░░░░░   65.33 % 
+user-management          3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+hortiroot-scanners       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+request-portal           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Linux                    14 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 19:41:45 UTC
+ Last Updated on 06/03/2026 19:08:28 UTC
 <!--END_SECTION:waka-->
