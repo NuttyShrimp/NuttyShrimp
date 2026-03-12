@@ -27,23 +27,23 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       8 hrs 49 mins       ███████████████░░░░░░░░░░   58.02 % 
-TypeScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-TOML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Go                       7 hrs 29 mins       ██████████████░░░░░░░░░░░   56.83 % 
+TypeScript               2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+TOML                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+SQL                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🐱‍💻 Projects: 
-user-management          7 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.05 % 
-request-portal           6 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.69 % 
-hortiroot-scanners       1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-join                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+request-portal           6 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.77 % 
+user-management          5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   41.25 % 
+hortiroot-scanners       1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Unknown Project          26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+join                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Linux                    15 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    13 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/2026 19:23:41 UTC
+ Last Updated on 12/03/2026 19:23:09 UTC
 <!--END_SECTION:waka-->
