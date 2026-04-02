@@ -27,24 +27,24 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Swift                    7 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.29 % 
-Go                       2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-TypeScript               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-TeX                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Swift                    6 hrs 24 mins       ███████████░░░░░░░░░░░░░░   43.95 % 
+Go                       2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+TypeScript               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+TeX                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 🐱‍💻 Projects: 
-impl                     8 hrs 55 mins       █████████████░░░░░░░░░░░░   53.48 % 
-request-portal           4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-bap                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Unknown Project          1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-hortiroot-scanners       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+impl                     8 hrs 15 mins       ██████████████░░░░░░░░░░░   56.74 % 
+request-portal           2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+bap                      1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+hortiroot-scanners       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Unknown Project          46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 💻 Operating System: 
-Linux                    16 hrs 35 mins      █████████████████████████   99.45 % 
-Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Linux                    14 hrs 28 mins      █████████████████████████   99.37 % 
+Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 
- Last Updated on 01/04/2026 19:36:34 UTC
+ Last Updated on 02/04/2026 19:28:45 UTC
 <!--END_SECTION:waka-->
