@@ -27,24 +27,24 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Swift                    6 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.27 % 
-Go                       3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-PHP                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-TypeScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Swift                    6 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.45 % 
+Go                       3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+PHP                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 SQL                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🐱‍💻 Projects: 
-impl                     7 hrs 41 mins       ███████████████░░░░░░░░░░   60.64 % 
-website                  2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-request-portal           1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-auth                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+impl                     7 hrs 41 mins       ███████████████░░░░░░░░░░   60.86 % 
+website                  2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+request-portal           1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+auth                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Linux                    12 hrs 31 mins      █████████████████████████   98.66 % 
+Linux                    12 hrs 28 mins      █████████████████████████   98.66 % 
 Mac                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 
 
- Last Updated on 09/04/2026 19:44:39 UTC
+ Last Updated on 10/04/2026 19:25:49 UTC
 <!--END_SECTION:waka-->
