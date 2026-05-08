@@ -27,23 +27,23 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TeX                      11 hrs 9 mins       █████████████░░░░░░░░░░░░   52.95 % 
-YAML                     2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-TypeScript               2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Swift                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TeX                      8 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.24 % 
+YAML                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+TypeScript               2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Swift                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🐱‍💻 Projects: 
-bap                      11 hrs 13 mins      █████████████░░░░░░░░░░░░   53.24 % 
-impl                     4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-ansible-config-sw        3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-manual-count-2           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-mailrise                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+bap                      8 hrs 45 mins       ████████████░░░░░░░░░░░░░   47.57 % 
+impl                     4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+ansible-config-sw        3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+manual-count-2           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+mailrise                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 💻 Operating System: 
-Linux                    21 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    18 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2026 19:58:59 UTC
+ Last Updated on 08/05/2026 19:53:35 UTC
 <!--END_SECTION:waka-->
