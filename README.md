@@ -21,6 +21,30 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%2C886%20hrs%206%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/05/2026 19:59:51 UTC
+```text
+🕑︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+YAML                     3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   26.66 % 
+TypeScript               2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+TeX                      1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Swift                    1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Go                       1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+
+🐱‍💻 Projects: 
+impl                     4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
+ansible-config-sw        3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+bap                      2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+website                  1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+arbiter                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+
+💻 Operating System: 
+Linux                    11 hrs              █████████████████████░░░░   85.46 % 
+Mac                      1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+```
+
+
+ Last Updated on 16/05/2026 19:38:18 UTC
 <!--END_SECTION:waka-->
