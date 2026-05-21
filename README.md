@@ -19,8 +19,30 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C895%20hrs%2056%20mins-blue?style=flat)
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+Swift                    4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+TypeScript               4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+Go                       2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Docker                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+
+🐱‍💻 Projects: 
+impl                     9 hrs 4 mins        ██████████████░░░░░░░░░░░   54.43 % 
+website                  6 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.00 % 
+hydra                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+arbiter                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+
+💻 Operating System: 
+Linux                    10 hrs 10 mins      ███████████████░░░░░░░░░░   61.08 % 
+Mac                      6 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   38.92 % 
+```
 
 
- Last Updated on 20/05/2026 20:33:15 UTC
+ Last Updated on 21/05/2026 20:18:22 UTC
 <!--END_SECTION:waka-->
