@@ -20,24 +20,24 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       7 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-TeX                      5 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-TypeScript               2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Svelte                   2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-YAML                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Go                       7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.79 % 
+TeX                      5 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+TypeScript               2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Python                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🐱‍💻 Projects: 
-bap                      7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-nucleus                  5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-website                  5 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-cam-coverage             4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-blueprint                1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+bap                      7 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.93 % 
+nucleus                  5 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+website                  5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+blueprint                1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+cam-coverage             33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 💻 Operating System: 
-Linux                    23 hrs 27 mins      ██████████████████████░░░   88.56 % 
-Mac                      3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Linux                    17 hrs 42 mins      █████████████████████░░░░   85.21 % 
+Mac                      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
 ```
 
 
- Last Updated on 09/06/2026 20:26:44 UTC
+ Last Updated on 10/06/2026 21:06:20 UTC
 <!--END_SECTION:waka-->
