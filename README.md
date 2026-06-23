@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C032%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C037%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,23 +20,24 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       8 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.67 % 
-YAML                     4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Go                       5 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.67 % 
+YAML                     4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+C#                       57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🐱‍💻 Projects: 
-blueprint                5 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.58 % 
-nucleus                  4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-ansible-config-sw        3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-arbiter                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-infisical                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+blueprint                4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+ansible-config-sw        3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+nucleus                  3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Yellow Song 10           1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+arbiter                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 💻 Operating System: 
-Linux                    17 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 29 mins      ██████████████████████░░░   88.76 % 
+Windows                  1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 ```
 
 
- Last Updated on 22/06/2026 21:19:15 UTC
+ Last Updated on 23/06/2026 20:32:04 UTC
 <!--END_SECTION:waka-->
