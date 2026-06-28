@@ -20,24 +20,24 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       11 hrs              ██████████░░░░░░░░░░░░░░░   38.39 % 
-YAML                     10 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   35.02 % 
-Markdown                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-XML                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+C#                       11 hrs              ███████████░░░░░░░░░░░░░░   42.89 % 
+YAML                     7 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+Markdown                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+XML                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🐱‍💻 Projects: 
-Friendly Shape 28        11 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   39.98 % 
-Yellow Song 10           10 hrs 7 mins       █████████░░░░░░░░░░░░░░░░   35.27 % 
-ansible-config-sw        2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Green Shadow 87          1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-infisical                1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Friendly Shape 28        11 hrs 28 mins      ███████████░░░░░░░░░░░░░░   44.67 % 
+Yellow Song 10           10 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   39.41 % 
+Green Shadow 87          1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+infisical                1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Unknown Project          27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Windows                  24 hrs 22 mins      █████████████████████░░░░   84.93 % 
-Linux                    4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Windows                  24 hrs 22 mins      ████████████████████████░   94.88 % 
+Linux                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 
 
- Last Updated on 27/06/2026 19:52:12 UTC
+ Last Updated on 28/06/2026 19:53:31 UTC
 <!--END_SECTION:waka-->
