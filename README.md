@@ -20,24 +20,22 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-YAML                     1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-C#                       1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-SQL                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Go                       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+TypeScript               1 hr 54 mins        ███████████████░░░░░░░░░░   60.25 % 
+Go                       34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+SQL                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🐱‍💻 Projects: 
-arbiter                  3 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.60 % 
-Friendly Shape 28        2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   38.45 % 
-Yellow Song 10           54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-ansible-config-sw        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+arbiter                  2 hrs 58 mins       ████████████████████████░   94.01 % 
+ansible-config-sw        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+website                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs 53 mins       █████████████░░░░░░░░░░░░   50.55 % 
-Linux                    3 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.45 % 
+Linux                    3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2026 19:39:04 UTC
+ Last Updated on 18/07/2026 19:41:24 UTC
 <!--END_SECTION:waka-->
