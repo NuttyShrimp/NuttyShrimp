@@ -20,22 +20,21 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               1 hr 54 mins        ███████████████░░░░░░░░░░   60.25 % 
-Go                       34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-SQL                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+TypeScript               19 mins             ██████████████████░░░░░░░   73.17 % 
+TOML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+SQL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Go                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🐱‍💻 Projects: 
-arbiter                  2 hrs 58 mins       ████████████████████████░   94.01 % 
-ansible-config-sw        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-website                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+arbiter                  24 mins             ████████████████████████░   96.15 % 
+website                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    3 hrs 9 mins        █████████████████████████   100.00 % 
+Linux                    25 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/07/2026 19:41:24 UTC
+ Last Updated on 19/07/2026 19:40:01 UTC
 <!--END_SECTION:waka-->
