@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C015%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C021%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2018%20mins-blue?style=flat)
 
@@ -22,36 +22,36 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       8 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.20 % 
-Ruby                     3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Markdown                 2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-YAML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-TypeScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+C#                       10 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   39.20 % 
+Ruby                     3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Markdown                 3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+TypeScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+YAML                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🐱‍💻 Projects: 
-Friendly Shape 28        8 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.25 % 
-access-management        7 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.36 % 
-Yellow Song 10           2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-website                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Holy World 96            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Friendly Shape 28        11 hrs 58 mins      ████████████░░░░░░░░░░░░░   46.07 % 
+access-management        6 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+website                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Yellow Song 10           1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Green Shadow 87          1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 💻 Operating System: 
-Windows                  12 hrs 45 mins      ██████████████░░░░░░░░░░░   57.31 % 
-Linux                    9 hrs 30 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
+Windows                  15 hrs 42 mins      ███████████████░░░░░░░░░░   60.42 % 
+Linux                    10 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 37 mins (29.78%)
+⏱ AI Coding Time: 5 hrs 41 mins (21.89%)
 
-✍️ 333 lines written by AI, 401 lines written by hand (45.37% AI-written)
+✍️ 333 lines written by AI, 414 lines written by hand (44.58% AI-written)
 
-🔤 36,698 Input Tokens, 230,715 Output Tokens
+🔤 36,698 Input Tokens, 218,282 Output Tokens
 
-💵 $4.83 Estimated AI Cost This Week
+💵 $4.80 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 28 AI Prompts
+🧠 10 AI Sessions, 26 AI Prompts
 
 Sonnet                   194 lines           ██████████████░░░░░░░░░░░   55.11 % 
 Opus                     97 lines            ███████░░░░░░░░░░░░░░░░░░   27.56 % 
@@ -59,12 +59,12 @@ Gemini                   61 lines            ████░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 45.37% of written lines came from AI
-📝 Concise Prompter — average 303 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 59.59% of changed lines were hand-edited
+⚖️ Balanced with AI — 44.58% of written lines came from AI
+📝 Concise Prompter — average 318 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 65.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 20:03:46 UTC
+ Last Updated on 28/07/2026 20:00:13 UTC
 <!--END_SECTION:waka-->
