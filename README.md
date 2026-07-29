@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C021%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C025%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2033%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,49 +22,48 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       10 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   39.20 % 
-Ruby                     3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Markdown                 3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-TypeScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-YAML                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+C#                       11 hrs 55 mins      ███████████░░░░░░░░░░░░░░   43.54 % 
+Markdown                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Ruby                     2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+YAML                     2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+JSON                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🐱‍💻 Projects: 
-Friendly Shape 28        11 hrs 58 mins      ████████████░░░░░░░░░░░░░   46.07 % 
-access-management        6 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-website                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Yellow Song 10           1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Green Shadow 87          1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Friendly Shape 28        12 hrs 46 mins      ████████████░░░░░░░░░░░░░   46.63 % 
+access-management        5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Green Shadow 87          2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Yellow Song 10           1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+wiki                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 💻 Operating System: 
-Windows                  15 hrs 42 mins      ███████████████░░░░░░░░░░   60.42 % 
-Linux                    10 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
+Windows                  18 hrs 25 mins      █████████████████░░░░░░░░   67.29 % 
+Linux                    8 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 41 mins (21.89%)
+⏱ AI Coding Time: 4 hrs 58 mins (18.14%)
 
-✍️ 333 lines written by AI, 414 lines written by hand (44.58% AI-written)
+✍️ 312 lines written by AI, 434 lines written by hand (41.82% AI-written)
 
 🔤 36,698 Input Tokens, 218,282 Output Tokens
 
-💵 $4.80 Estimated AI Cost This Week
+💵 $4.66 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 26 AI Prompts
+🧠 8 AI Sessions, 22 AI Prompts
 
-Sonnet                   194 lines           ██████████████░░░░░░░░░░░   55.11 % 
-Opus                     97 lines            ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Gemini                   61 lines            ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   194 lines           ███████████████░░░░░░░░░░   60.25 % 
+Opus                     97 lines            ████████░░░░░░░░░░░░░░░░░   30.12 % 
+Gemini                   31 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 44.58% of written lines came from AI
-📝 Concise Prompter — average 318 characters per prompt
+⚖️ Balanced with AI — 41.82% of written lines came from AI
+📝 Concise Prompter — average 144 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 65.04% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 68.21% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 20:00:13 UTC
+ Last Updated on 29/07/2026 19:51:56 UTC
 <!--END_SECTION:waka-->
