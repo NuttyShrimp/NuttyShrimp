@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C033%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C038%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,49 +22,49 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       14 hrs 22 mins      ████████████░░░░░░░░░░░░░   48.89 % 
-Markdown                 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Ruby                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-SQL                      2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-YAML                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+C#                       13 hrs 24 mins      ████████████░░░░░░░░░░░░░   48.15 % 
+Markdown                 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Ruby                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+SQL                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 🐱‍💻 Projects: 
-Friendly Shape 28        15 hrs 24 mins      █████████████░░░░░░░░░░░░   52.42 % 
-access-management        5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Green Shadow 87          2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Clever Egg 10            2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-wiki                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Friendly Shape 28        12 hrs 48 mins      ████████████░░░░░░░░░░░░░   46.02 % 
+access-management        5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Green Shadow 87          3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Clever Egg 10            2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+wiki                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 
 💻 Operating System: 
-Windows                  20 hrs 56 mins      ██████████████████░░░░░░░   71.24 % 
-Linux                    8 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Windows                  19 hrs 22 mins      █████████████████░░░░░░░░   69.62 % 
+Linux                    8 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 27 mins (15.17%)
+⏱ AI Coding Time: 2 hrs 18 mins (8.3%)
 
-✍️ 312 lines written by AI, 678 lines written by hand (31.52% AI-written)
+✍️ 27 lines written by AI, 641 lines written by hand (4.04% AI-written)
 
-🔤 86,363 Input Tokens, 172,170 Output Tokens
+🔤 61,615 Input Tokens, 27,237 Output Tokens
 
-💵 $4.23 Estimated AI Cost This Week
+💵 $1.85 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 22 AI Prompts
+🧠 6 AI Sessions, 11 AI Prompts
 
-Sonnet                   194 lines           ███████████████░░░░░░░░░░   60.25 % 
-Opus                     97 lines            ████████░░░░░░░░░░░░░░░░░   30.12 % 
-Gemini                   31 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Sonnet                   162 lines           █████████████████░░░░░░░░   67.22 % 
+Opus                     48 lines            █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Gemini                   31 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 31.52% of written lines came from AI
-📝 Concise Prompter — average 234 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 81.58% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 4.04% of written lines came from AI
+📄 Detailed Prompter — average 825 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 97.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 20:01:26 UTC
+ Last Updated on 31/07/2026 20:02:38 UTC
 <!--END_SECTION:waka-->
