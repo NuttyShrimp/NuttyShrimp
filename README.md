@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C038%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C044%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,49 +22,49 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       13 hrs 24 mins      ████████████░░░░░░░░░░░░░   48.15 % 
-Markdown                 2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Ruby                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-SQL                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+C#                       17 hrs 35 mins      █████████████░░░░░░░░░░░░   52.21 % 
+Markdown                 2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+SQL                      2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Ruby                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+JSON                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 🐱‍💻 Projects: 
-Friendly Shape 28        12 hrs 48 mins      ████████████░░░░░░░░░░░░░   46.02 % 
-access-management        5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Green Shadow 87          3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Clever Egg 10            2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-wiki                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Friendly Shape 28        17 hrs 19 mins      █████████████░░░░░░░░░░░░   51.44 % 
+access-management        5 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Green Shadow 87          3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Clever Egg 10            3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+wiki                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-Windows                  19 hrs 22 mins      █████████████████░░░░░░░░   69.62 % 
-Linux                    8 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
+Windows                  24 hrs 16 mins      ██████████████████░░░░░░░   72.03 % 
+Linux                    9 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (8.3%)
+⏱ AI Coding Time: 3 hrs 38 mins (10.82%)
 
-✍️ 27 lines written by AI, 641 lines written by hand (4.04% AI-written)
+✍️ 41 lines written by AI, 836 lines written by hand (4.68% AI-written)
 
-🔤 61,615 Input Tokens, 27,237 Output Tokens
+🔤 119,107 Input Tokens, 41,359 Output Tokens
 
-💵 $1.85 Estimated AI Cost This Week
+💵 $2.49 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 11 AI Prompts
+🧠 7 AI Sessions, 12 AI Prompts
 
-Sonnet                   162 lines           █████████████████░░░░░░░░   67.22 % 
-Opus                     48 lines            █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Gemini                   31 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Sonnet                   162 lines           ████████████████░░░░░░░░░   63.53 % 
+Opus                     62 lines            ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Gemini                   31 lines            ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.04% of written lines came from AI
-📄 Detailed Prompter — average 825 characters per prompt
+🧑‍💻 Mostly Hands-On — 4.68% of written lines came from AI
+📄 Detailed Prompter — average 764 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 97.92% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.54% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/07/2026 20:02:38 UTC
+ Last Updated on 01/08/2026 19:42:49 UTC
 <!--END_SECTION:waka-->
