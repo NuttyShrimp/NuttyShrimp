@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C087%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C089%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2018%20mins-blue?style=flat)
 
@@ -22,30 +22,30 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       23 hrs 43 mins      ███████████████░░░░░░░░░░   58.25 % 
-Go                       6 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-YAML                     3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-TypeScript               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-SQL                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+C#                       23 hrs 43 mins      ████████████████░░░░░░░░░   63.39 % 
+YAML                     3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Go                       1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+TypeScript               1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+SQL                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🐱‍💻 Projects: 
-Friendly Shape 28        25 hrs 44 mins      ████████████████░░░░░░░░░   63.19 % 
-docker-dashboard         4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-ansible-config-sw        3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-apprise-relay            1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-vikunja-astal            1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Friendly Shape 28        25 hrs 44 mins      █████████████████░░░░░░░░   68.77 % 
+ansible-config-sw        3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+apprise-relay            1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+vikunja-astal            1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Clever Egg 10            1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 💻 Operating System: 
-Windows                  27 hrs 43 mins      █████████████████░░░░░░░░   68.05 % 
-Linux                    13 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Windows                  27 hrs 43 mins      ███████████████████░░░░░░   74.05 % 
+Linux                    9 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 6 mins (17.45%)
+⏱ AI Coding Time: 7 hrs 6 mins (18.99%)
 
-✍️ 3,877 lines written by AI, 3,075 lines written by hand (55.77% AI-written)
+✍️ 3,877 lines written by AI, 2,602 lines written by hand (59.84% AI-written)
 
 🔤 91,550 Input Tokens, 380,396 Output Tokens
 
@@ -60,12 +60,12 @@ Gemini                   1 lines             ░░░░░░░░░░░�
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 55.77% of written lines came from AI
+⚖️ Balanced with AI — 59.84% of written lines came from AI
 📚 Verbose Prompter — average 3,378 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.67% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 95.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 19:10:57 UTC
+ Last Updated on 10/08/2026 19:29:57 UTC
 <!--END_SECTION:waka-->
