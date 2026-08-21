@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C132%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C136%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,49 +22,49 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       11 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
-YAML                     5 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-JSON                     4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Nix                      3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-SQL                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+C#                       9 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.57 % 
+YAML                     6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+JSON                     4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Nix                      3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+SQL                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-Friendly Shape 28        19 hrs 31 mins      ████████████████░░░░░░░░░   64.86 % 
-nixos-config             4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Yellow Song 10           2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-ansible-config-sw        1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Clever Egg 10            1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Friendly Shape 28        16 hrs 24 mins      ███████████████░░░░░░░░░░   59.31 % 
+nixos-config             4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Yellow Song 10           3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+ansible-config-sw        1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Green Shadow 87          1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 💻 Operating System: 
-Windows                  23 hrs 43 mins      ████████████████████░░░░░   78.85 % 
-Linux                    6 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Windows                  21 hrs 24 mins      ███████████████████░░░░░░   77.34 % 
+Linux                    6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 50 mins (16.09%)
+⏱ AI Coding Time: 4 hrs 57 mins (17.93%)
 
-✍️ 342 lines written by AI, 660 lines written by hand (34.13% AI-written)
+✍️ 511 lines written by AI, 607 lines written by hand (45.71% AI-written)
 
-🔤 87,079 Input Tokens, 151,183 Output Tokens
+🔤 3,521,433 Input Tokens, 132,512 Output Tokens
 
-💵 $2.81 Estimated AI Cost This Week
+💵 $20.76 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 66 AI Prompts
+🧠 12 AI Sessions, 53 AI Prompts
 
-GPT                      219 lines           ███████████████░░░░░░░░░░   61.34 % 
-Sonnet                   50 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Gemini                   50 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Opus                     38 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Sonnet                   296 lines           █████████████░░░░░░░░░░░░   52.76 % 
+GPT                      177 lines           ████████░░░░░░░░░░░░░░░░░   31.55 % 
+Gemini                   50 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Opus                     38 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.13% of written lines came from AI
-📝 Concise Prompter — average 168 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 78.57% of changed lines were hand-edited
+⚖️ Balanced with AI — 45.71% of written lines came from AI
+📝 Concise Prompter — average 139 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 65.36% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 19:09:45 UTC
+ Last Updated on 21/08/2026 19:06:03 UTC
 <!--END_SECTION:waka-->
