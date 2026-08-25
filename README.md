@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C147%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C147%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2035%20mins-blue?style=flat)
 
@@ -22,50 +22,49 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-C#                       7 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-YAML                     6 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-JSON                     4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Nix                      3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Go                       2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+C#                       7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+YAML                     4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Go                       2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+JSON                     2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Nix                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 
 🐱‍💻 Projects: 
-Friendly Shape 28        13 hrs 58 mins      ███████████░░░░░░░░░░░░░░   42.80 % 
-nixos-config             4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-docker-dashboard         3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Yellow Song 10           3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-ansible-config-sw        1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Friendly Shape 28        10 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.60 % 
+docker-dashboard         3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Yellow Song 10           3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+nixos-config             1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+ansible-config-sw        1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 💻 Operating System: 
-Windows                  19 hrs 1 min        ███████████████░░░░░░░░░░   58.28 % 
-Linux                    13 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   41.72 % 
+Windows                  14 hrs 49 mins      ███████████████░░░░░░░░░░   58.16 % 
+Linux                    10 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   41.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 57 mins (18.25%)
+⏱ AI Coding Time: 4 hrs 33 mins (17.89%)
 
-✍️ 482 lines written by AI, 1,824 lines written by hand (20.9% AI-written)
+✍️ 434 lines written by AI, 1,690 lines written by hand (20.43% AI-written)
 
-🔤 3,521,433 Input Tokens, 110,114 Output Tokens
+🔤 3,956,828 Input Tokens, 110,807 Output Tokens
 
-💵 $20.73 Estimated AI Cost This Week
+💵 $17.64 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 79 AI Prompts
+🧠 13 AI Sessions, 73 AI Prompts
 
-Sonnet                   296 lines           █████████████░░░░░░░░░░░░   53.92 % 
-GPT                      186 lines           ████████░░░░░░░░░░░░░░░░░   33.88 % 
-Gemini                   50 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Opus                     17 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Sonnet                   249 lines           ██████████████░░░░░░░░░░░   57.37 % 
+GPT                      183 lines           ███████████░░░░░░░░░░░░░░   42.17 % 
+Gemini                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.9% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 86.77% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 20.43% of written lines came from AI
+📝 Concise Prompter — average 163 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 87.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 19:09:24 UTC
+ Last Updated on 25/08/2026 19:08:03 UTC
 <!--END_SECTION:waka-->
