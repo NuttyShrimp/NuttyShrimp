@@ -22,47 +22,45 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-C#                       2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-YAML                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-C++                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-templ                    1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Go                       1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+C++                      1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+templ                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Makefile                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Ruby                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 
 🐱‍💻 Projects: 
-docker-dashboard         3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
-Friendly Shape 28        2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-ender3-marlin-blt        49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Ender_3_Creality3D_v1.1.446 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-access-management        42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+docker-dashboard         2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.14 % 
+ender3-marlin-blt        49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Ender_3_Creality3D_v1.1.446 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+access-management        42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Ender-3                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 💻 Operating System: 
-Linux                    8 hrs 18 mins       ███████████████████░░░░░░   74.86 % 
-Windows                  2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+Linux                    6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (11.14%)
+⏱ AI Coding Time: 56 mins (15.57%)
 
-✍️ 9 lines written by AI, 1,455 lines written by hand (0.61% AI-written)
+✍️ 0 lines written by AI, 1,158 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 11,664 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $1.74 Estimated AI Cost This Week
+💵 $1.59 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 36 AI Prompts
+🧠 4 AI Sessions, 34 AI Prompts
 
-GPT                      16 lines            █████████████████████████   100.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      7 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.61% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 99.65% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 177 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 01:49:53 UTC
+ Last Updated on 29/08/2026 21:03:51 UTC
 <!--END_SECTION:waka-->
