@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C147%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C150%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,24 +22,45 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-YAML                     7 mins              ████████████░░░░░░░░░░░░░   48.63 % 
-Ruby                     5 mins              ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Nix                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+YAML                     2 hrs 16 mins       █████████████████░░░░░░░░   67.95 % 
+Jinja2                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Ruby                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🐱‍💻 Projects: 
-access-management        12 mins             █████████████████████░░░░   82.33 % 
-nixos-config             2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+ansible-config-sw        1 hr 51 mins        ██████████████░░░░░░░░░░░   55.43 % 
+access-management        30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+auth                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+arbiter                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+wiki                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 23 mins (11.92%)
+
+✍️ 0 lines written by AI, 178 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $1.59 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 65 AI Prompts
+
+GPT                      7 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 32 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 22:57:58 UTC
+ Last Updated on 01/09/2026 21:12:43 UTC
 <!--END_SECTION:waka-->
