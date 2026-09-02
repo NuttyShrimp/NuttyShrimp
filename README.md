@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C150%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C153%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-99%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2034%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,45 +22,43 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-YAML                     2 hrs 16 mins       █████████████████░░░░░░░░   67.95 % 
-Jinja2                   30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Ruby                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+YAML                     3 hrs 41 mins       ████████████████░░░░░░░░░   65.36 % 
+Ruby                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Jinja2                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🐱‍💻 Projects: 
-ansible-config-sw        1 hr 51 mins        ██████████████░░░░░░░░░░░   55.43 % 
-access-management        30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-auth                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-arbiter                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-wiki                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+ansible-config-sw        3 hrs 24 mins       ███████████████░░░░░░░░░░   60.22 % 
+access-management        1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+auth                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+arbiter                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+wiki                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Linux                    3 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (11.92%)
+⏱ AI Coding Time: 1 hr 58 mins (34.96%)
 
-✍️ 0 lines written by AI, 178 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 183 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $1.59 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 65 AI Prompts
-
-GPT                      7 lines             █████████████████████████   100.00 % 
+🧠 3 AI Sessions, 79 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 70 characters per prompt
-🔁 Iterative Prompter — average 32 prompts per session
+📝 Concise Prompter — average 74 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 21:12:43 UTC
+ Last Updated on 02/09/2026 21:11:38 UTC
 <!--END_SECTION:waka-->
