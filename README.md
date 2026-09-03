@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C153%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C154%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%2034%20mins-blue?style=flat)
 
@@ -22,29 +22,29 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-YAML                     3 hrs 41 mins       ████████████████░░░░░░░░░   65.36 % 
-Ruby                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Jinja2                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+YAML                     4 hrs 8 mins        ███████████████░░░░░░░░░░   59.35 % 
+Ruby                     1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Jinja2                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🐱‍💻 Projects: 
-ansible-config-sw        3 hrs 24 mins       ███████████████░░░░░░░░░░   60.22 % 
-access-management        1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-auth                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-arbiter                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-wiki                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+ansible-config-sw        3 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.80 % 
+ansible-config           1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+access-management        1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+auth                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+arbiter                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 💻 Operating System: 
-Linux                    5 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 58 mins (34.96%)
+⏱ AI Coding Time: 1 hr 58 mins (28.27%)
 
-✍️ 0 lines written by AI, 183 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 260 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -60,5 +60,5 @@ Linux                    5 hrs 39 mins       ███████████�
 ```
 
 
- Last Updated on 02/09/2026 21:11:38 UTC
+ Last Updated on 03/09/2026 21:12:50 UTC
 <!--END_SECTION:waka-->
