@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C161%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C164%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2018%20mins-blue?style=flat)
 
@@ -22,29 +22,29 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-YAML                     4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
-Go                       2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-TypeScript               2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Ruby                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-SQL                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Go                       4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+YAML                     4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+TypeScript               3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Ruby                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+SQL                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🐱‍💻 Projects: 
-anthias-c2               6 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
-ansible-config-sw        3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-access-management        1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-ansible-config           1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-auth                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+anthias-c2               8 hrs 44 mins       █████████████░░░░░░░░░░░░   51.48 % 
+ansible-config-sw        3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+access-management        1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+ansible-config           1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+website                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 💻 Operating System: 
-Linux                    14 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 42 mins (26.05%)
+⏱ AI Coding Time: 3 hrs 42 mins (21.85%)
 
-✍️ 0 lines written by AI, 2,279 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,602 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -60,5 +60,5 @@ Linux                    14 hrs 13 mins      ███████████�
 ```
 
 
- Last Updated on 05/09/2026 20:34:55 UTC
+ Last Updated on 06/09/2026 20:39:15 UTC
 <!--END_SECTION:waka-->
