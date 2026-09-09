@@ -22,43 +22,43 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
-TypeScript               3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-YAML                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Ruby                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-SQL                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Go                       4 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
+TypeScript               3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+SQL                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Ruby                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🐱‍💻 Projects: 
-anthias-c2               9 hrs 13 mins       ████████████████░░░░░░░░░   64.10 % 
-ansible-config-sw        1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-access-management        1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-ansible-config           1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-website                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+anthias-c2               9 hrs 13 mins       ███████████████████░░░░░░   77.72 % 
+ansible-config           1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+website                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+access-management        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+nucleus                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Linux                    14 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 18 mins (23.03%)
+⏱ AI Coding Time: 1 hr 43 mins (14.59%)
 
-✍️ 0 lines written by AI, 2,494 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,477 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 68 AI Prompts
+🧠 2 AI Sessions, 64 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 42 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
+📝 Concise Prompter — average 35 characters per prompt
+🔁 Iterative Prompter — average 32 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 21:19:02 UTC
+ Last Updated on 09/09/2026 21:04:16 UTC
 <!--END_SECTION:waka-->
