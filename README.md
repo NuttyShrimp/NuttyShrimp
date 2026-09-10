@@ -22,29 +22,29 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       4 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.92 % 
-TypeScript               3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-SQL                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Ruby                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Go                       4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.61 % 
+TypeScript               3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.42 % 
+SQL                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+TOML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🐱‍💻 Projects: 
-anthias-c2               9 hrs 13 mins       ███████████████████░░░░░░   77.72 % 
-ansible-config           1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-website                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-access-management        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-nucleus                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+anthias-c2               9 hrs 13 mins       ██████████████████████░░░   87.58 % 
+website                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+access-management        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+nucleus                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+auth                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Linux                    11 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (14.59%)
+⏱ AI Coding Time: 1 hr 43 mins (16.44%)
 
-✍️ 0 lines written by AI, 2,477 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,400 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -60,5 +60,5 @@ Linux                    11 hrs 52 mins      ███████████�
 ```
 
 
- Last Updated on 09/09/2026 21:04:16 UTC
+ Last Updated on 10/09/2026 21:04:11 UTC
 <!--END_SECTION:waka-->
