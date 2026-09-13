@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C165%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C169%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2026%20mins-blue?style=flat)
 
@@ -22,29 +22,29 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       3 hrs 9 mins        ██████████████░░░░░░░░░░░   55.35 % 
-TypeScript               1 hr 45 mins        ████████░░░░░░░░░░░░░░░░░   30.84 % 
-Makefile                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-SQL                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Go                       4 hrs 50 mins       █████████████████░░░░░░░░   68.44 % 
+TypeScript               1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Makefile                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🐱‍💻 Projects: 
-anthias-c2               5 hrs 5 mins        ██████████████████████░░░   89.52 % 
-website                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-request-portal           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-access-management        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-nucleus                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+anthias-c2               6 hrs 28 mins       ███████████████████████░░   91.33 % 
+website                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+request-portal           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+access-management        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+nucleus                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Linux                    5 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (4.47%)
+⏱ AI Coding Time: 15 mins (3.59%)
 
-✍️ 0 lines written by AI, 654 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 630 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -60,5 +60,5 @@ Linux                    5 hrs 41 mins       ███████████�
 ```
 
 
- Last Updated on 12/09/2026 20:47:43 UTC
+ Last Updated on 13/09/2026 21:01:38 UTC
 <!--END_SECTION:waka-->
