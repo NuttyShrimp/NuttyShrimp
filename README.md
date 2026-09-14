@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C169%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C171%20hrs%2028%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-103%20hrs%2026%20mins-blue?style=flat)
 
@@ -22,29 +22,29 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       4 hrs 50 mins       █████████████████░░░░░░░░   68.44 % 
-TypeScript               1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Makefile                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Go                       4 hrs 50 mins       ██████████████░░░░░░░░░░░   56.98 % 
+Jinja2                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Makefile                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🐱‍💻 Projects: 
-anthias-c2               6 hrs 28 mins       ███████████████████████░░   91.33 % 
-website                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-request-portal           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-access-management        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-nucleus                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+anthias-c2               5 hrs 58 mins       ██████████████████░░░░░░░   70.30 % 
+ansible-config-sw        1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+website                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+access-management        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+request-portal           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Linux                    7 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    8 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 mins (3.59%)
+⏱ AI Coding Time: 15 mins (2.99%)
 
-✍️ 0 lines written by AI, 630 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 866 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -60,5 +60,5 @@ Linux                    7 hrs 4 mins        ███████████�
 ```
 
 
- Last Updated on 13/09/2026 21:01:38 UTC
+ Last Updated on 14/09/2026 21:57:04 UTC
 <!--END_SECTION:waka-->
