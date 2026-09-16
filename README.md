@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C172%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C174%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,43 +22,43 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       4 hrs 4 mins        █████████████░░░░░░░░░░░░   51.96 % 
-Jinja2                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-ERB                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Go                       4 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.43 % 
+Jinja2                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+YAML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+ERB                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🐱‍💻 Projects: 
-anthias-c2               4 hrs 12 mins       █████████████░░░░░░░░░░░░   53.56 % 
-ansible-config-sw        1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-request-portal           50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-access-management        29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-website                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+anthias-c2               4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.45 % 
+ansible-config-sw        2 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+request-portal           1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+website                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+access-management        29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 💻 Operating System: 
-Linux                    7 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 4 mins (13.62%)
+⏱ AI Coding Time: 1 hr 13 mins (12.33%)
 
-✍️ 0 lines written by AI, 600 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,757 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 8 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 103 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 87 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 21:37:41 UTC
+ Last Updated on 16/09/2026 21:32:31 UTC
 <!--END_SECTION:waka-->
