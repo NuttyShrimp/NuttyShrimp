@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C184%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C187%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2019%20mins-blue?style=flat)
 
@@ -22,29 +22,29 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       10 hrs 38 mins      █████████████░░░░░░░░░░░░   52.15 % 
-YAML                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Jinja2                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-TypeScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Go                       10 hrs 38 mins      ███████████░░░░░░░░░░░░░░   45.70 % 
+YAML                     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Jinja2                   1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+TypeScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🐱‍💻 Projects: 
-anthias-c2               9 hrs 30 mins       ████████████░░░░░░░░░░░░░   46.58 % 
-request-portal           3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-ansible-config-sw        2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-access-management        1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-website                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+anthias-c2               9 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
+request-portal           3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+ansible-config-sw        2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+ansible-config           2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+access-management        1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 💻 Operating System: 
-Linux                    20 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 52 mins (23.89%)
+⏱ AI Coding Time: 4 hrs 52 mins (20.94%)
 
-✍️ 0 lines written by AI, 2,302 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,889 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -60,5 +60,5 @@ Linux                    20 hrs 24 mins      ███████████�
 ```
 
 
- Last Updated on 18/09/2026 21:06:47 UTC
+ Last Updated on 19/09/2026 20:54:29 UTC
 <!--END_SECTION:waka-->
