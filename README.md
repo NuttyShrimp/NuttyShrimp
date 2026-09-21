@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C188%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C190%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-108%20hrs%2019%20mins-blue?style=flat)
 
@@ -22,29 +22,29 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.70 % 
-YAML                     5 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Jinja2                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Go                       6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
+YAML                     5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+TypeScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Jinja2                   1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Nix                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🐱‍💻 Projects: 
-anthias-c2               5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-request-portal           3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-ansible-config           2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-ansible-config-sw        2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-access-management        1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+anthias-c2               5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+ansible-config           4 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+request-portal           3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+access-management        1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+nixos-config             1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 💻 Operating System: 
-Linux                    20 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    19 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 52 mins (24.24%)
+⏱ AI Coding Time: 4 hrs 52 mins (24.42%)
 
-✍️ 0 lines written by AI, 2,652 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 2,741 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -60,5 +60,5 @@ Linux                    20 hrs 6 mins       ███████████�
 ```
 
 
- Last Updated on 20/09/2026 20:59:12 UTC
+ Last Updated on 21/09/2026 22:07:15 UTC
 <!--END_SECTION:waka-->
