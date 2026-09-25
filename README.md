@@ -22,43 +22,45 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-YAML                     8 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.32 % 
-Go                       4 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Nix                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Text                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+YAML                     7 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.23 % 
+Go                       2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Nix                      2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Text                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+TOML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🐱‍💻 Projects: 
-ansible-config           6 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.04 % 
-anthias-c2               6 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   33.45 % 
-nixos-config             2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-monitoring               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+ansible-config           6 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.55 % 
+anthias-c2               2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+nixos-config             2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+monitoring               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Linux                    18 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 44 mins (14.61%)
+⏱ AI Coding Time: 2 hrs 21 mins (15.91%)
 
-✍️ 0 lines written by AI, 1,545 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,247 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 4,461,729 Input Tokens, 168,426 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $3.98 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 21 AI Prompts
+🧠 4 AI Sessions, 22 AI Prompts
+
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 124 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 121 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 21:41:34 UTC
+ Last Updated on 25/09/2026 21:44:59 UTC
 <!--END_SECTION:waka-->
