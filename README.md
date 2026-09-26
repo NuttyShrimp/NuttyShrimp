@@ -22,29 +22,29 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-YAML                     7 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.23 % 
-Go                       2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Nix                      2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Text                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-TOML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+YAML                     5 hrs 10 mins       ███████████░░░░░░░░░░░░░░   43.30 % 
+Go                       2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Nix                      1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Text                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+TOML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🐱‍💻 Projects: 
-ansible-config           6 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.55 % 
-anthias-c2               2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-nixos-config             2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-monitoring               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+ansible-config           4 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   39.76 % 
+anthias-c2               2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+nixos-config             1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+monitoring               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 💻 Operating System: 
-Linux                    14 hrs 51 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 21 mins (15.91%)
+⏱ AI Coding Time: 2 hrs 21 mins (19.81%)
 
-✍️ 0 lines written by AI, 1,247 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 658 lines written by hand (0.0% AI-written)
 
 🔤 4,461,729 Input Tokens, 168,426 Output Tokens
 
@@ -62,5 +62,5 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/09/2026 21:44:59 UTC
+ Last Updated on 26/09/2026 21:22:55 UTC
 <!--END_SECTION:waka-->
