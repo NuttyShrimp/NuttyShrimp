@@ -22,21 +22,18 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-YAML                     1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   35.68 % 
-Text                     50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-Markdown                 43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Nix                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-C                        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Markdown                 43 mins             █████████████████████░░░░   83.50 % 
+YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-monitoring               51 mins             ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-wiki                     50 mins             ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-ansible-config           42 mins             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Unknown Project          28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-nixos-config             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+wiki                     50 mins             ████████████████████████░   97.90 % 
+signature                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+ansible-config           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    3 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -46,5 +43,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/09/2026 22:28:30 UTC
+ Last Updated on 01/10/2026 22:49:39 UTC
 <!--END_SECTION:waka-->
