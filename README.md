@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C200%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C202%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2040%20mins-blue?style=flat)
 
@@ -22,18 +22,16 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Markdown                 43 mins             █████████████████████░░░░   83.50 % 
-YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Markdown                 2 hrs 42 mins       ████████████████████████░   95.05 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🐱‍💻 Projects: 
-wiki                     50 mins             ████████████████████████░   97.90 % 
-signature                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-ansible-config           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+wiki                     2 hrs 49 mins       █████████████████████████   99.41 % 
+signature                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -43,5 +41,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/10/2026 22:49:39 UTC
+ Last Updated on 02/10/2026 22:26:45 UTC
 <!--END_SECTION:waka-->
