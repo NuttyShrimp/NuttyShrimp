@@ -22,28 +22,27 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Markdown                 3 hrs 53 mins       ███████████████████░░░░░░   77.43 % 
-Go                       23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-templ                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 3 hrs 12 mins       ███████████████████░░░░░░   76.34 % 
+Go                       22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+CSS                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+templ                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Docker                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🐱‍💻 Projects: 
-wiki                     4 hrs               ████████████████████░░░░░   79.90 % 
-docker-dashboard         48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-access-management        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-signature                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+wiki                     3 hrs 12 mins       ███████████████████░░░░░░   76.34 % 
+docker-dashboard         48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+access-management        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 💻 Operating System: 
-Linux                    5 hrs 1 min         █████████████████████████   100.00 % 
+Linux                    4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (2.64%)
+⏱ AI Coding Time: 7 mins (3.16%)
 
-✍️ 0 lines written by AI, 368 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 352 lines written by hand (0.0% AI-written)
 
 🔤 11,859 Input Tokens, 139 Output Tokens
 
@@ -61,5 +60,5 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/10/2026 21:46:07 UTC
+ Last Updated on 06/10/2026 00:14:12 UTC
 <!--END_SECTION:waka-->
