@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C206%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C208%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,45 +22,45 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Markdown                 3 hrs 14 mins       ██████████████░░░░░░░░░░░   54.41 % 
-Go                       45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-TypeScript               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Docker                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+YAML                     1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Go                       1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Markdown                 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Docker                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🐱‍💻 Projects: 
-wiki                     3 hrs 14 mins       ██████████████░░░░░░░░░░░   54.42 % 
-blueprint                1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-docker-dashboard         48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-request-portal           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-access-management        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+blueprint                1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+infisical                1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+wiki                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+docker-dashboard         48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+join                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 
 💻 Operating System: 
-Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (18.66%)
+⏱ AI Coding Time: 1 hr 50 mins (29.69%)
 
-✍️ 859 lines written by AI, 367 lines written by hand (70.07% AI-written)
+✍️ 859 lines written by AI, 461 lines written by hand (65.08% AI-written)
 
-🔤 2,068,695 Input Tokens, 59,448 Output Tokens
+🔤 15,880,311 Input Tokens, 351,419 Output Tokens
 
-💵 $1.77 Estimated AI Cost This Week
+💵 $32.90 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 13 AI Prompts
+🧠 6 AI Sessions, 16 AI Prompts
 
 Gemini                   859 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.07% of written lines came from AI
-📝 Concise Prompter — average 180 characters per prompt
+⚖️ Balanced with AI — 65.08% of written lines came from AI
+📝 Concise Prompter — average 169 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 59.73% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 83.88% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/10/2026 23:30:07 UTC
+ Last Updated on 09/10/2026 22:47:58 UTC
 <!--END_SECTION:waka-->
