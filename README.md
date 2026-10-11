@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C212%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C215%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,45 +22,45 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.48 % 
-YAML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Go                       1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Caddyfile                43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               4 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.07 % 
+Go                       2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+YAML                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Caddyfile                50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🐱‍💻 Projects: 
-infisical                3 hrs 22 mins       ███████████░░░░░░░░░░░░░░   42.74 % 
-blueprint                1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-join                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-ansible-config-sw        59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-request-portal           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+join                     4 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.96 % 
+infisical                3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.21 % 
+blueprint                1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+ansible-config-sw        1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+request-portal           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-Linux                    7 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 55 mins (37.05%)
+⏱ AI Coding Time: 3 hrs 24 mins (30.49%)
 
-✍️ 859 lines written by AI, 404 lines written by hand (68.01% AI-written)
+✍️ 859 lines written by AI, 918 lines written by hand (48.34% AI-written)
 
-🔤 15,881,577 Input Tokens, 351,281 Output Tokens
+🔤 26,685,123 Input Tokens, 443,239 Output Tokens
 
-💵 $32.92 Estimated AI Cost This Week
+💵 $55.63 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 71 AI Prompts
+🧠 8 AI Sessions, 72 AI Prompts
 
 Gemini                   859 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.01% of written lines came from AI
-📝 Concise Prompter — average 277 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 81.36% of changed lines were hand-edited
+⚖️ Balanced with AI — 48.34% of written lines came from AI
+📝 Concise Prompter — average 275 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 83.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/10/2026 21:55:39 UTC
+ Last Updated on 11/10/2026 22:16:49 UTC
 <!--END_SECTION:waka-->
