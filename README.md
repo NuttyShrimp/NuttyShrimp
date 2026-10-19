@@ -22,33 +22,33 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-Go                       1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Docker                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+TypeScript               1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.53 % 
+Go                       1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.11 % 
+Docker                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+CSS                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🐱‍💻 Projects: 
-join                     3 hrs 46 mins       ██████████████████░░░░░░░   71.66 % 
-blueprint                56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-website                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-request-portal           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-arbiter                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+join                     2 hrs 52 mins       █████████████████░░░░░░░░   66.61 % 
+blueprint                56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+website                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+request-portal           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+arbiter                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Linux                    5 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 31 mins (29.07%)
+⏱ AI Coding Time: 1 hr 31 mins (35.43%)
 
-✍️ 411 lines written by AI, 240 lines written by hand (63.13% AI-written)
+✍️ 411 lines written by AI, 217 lines written by hand (65.45% AI-written)
 
 🔤 33,159,434 Input Tokens, 139,746 Output Tokens
 
-💵 $76.38 Estimated AI Cost This Week
+💵 $85.85 Estimated AI Cost This Week
 
 🧠 451 AI Sessions, 22 AI Prompts
 
@@ -56,12 +56,12 @@ OMP                      411 lines           ███████████�
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.13% of written lines came from AI
+⚖️ Balanced with AI — 65.45% of written lines came from AI
 📝 Concise Prompter — average 172 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 43.62% of changed lines were hand-edited
+🚀 High AI Trust — 41.12% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 20:57:21 UTC
+ Last Updated on 19/10/2026 22:33:05 UTC
 <!--END_SECTION:waka-->
