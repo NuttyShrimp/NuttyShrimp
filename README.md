@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C236%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C237%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,46 +22,46 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Swift                    4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   30.20 % 
-Go                       4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-YAML                     3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Makefile                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Go                       3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.48 % 
+YAML                     3 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.66 % 
+TypeScript               1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Docker                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Makefile                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🐱‍💻 Projects: 
-blueprint                9 hrs 29 mins       ███████████████░░░░░░░░░░   59.58 % 
-swift-zbp                4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-nucleus                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-join                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-website                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+blueprint                8 hrs 56 mins       ████████████████████░░░░░   79.29 % 
+nucleus                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+join                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+swift-zbp                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+website                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Linux                    15 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 8 mins (19.72%)
+⏱ AI Coding Time: 2 hrs 18 mins (20.5%)
 
-✍️ 308 lines written by AI, 1,789 lines written by hand (14.69% AI-written)
+✍️ 71 lines written by AI, 937 lines written by hand (7.04% AI-written)
 
-🔤 99,954,374 Input Tokens, 618,867 Output Tokens
+🔤 61,592,844 Input Tokens, 483,226 Output Tokens
 
-💵 $214.68 Estimated AI Cost This Week
+💵 $171.02 Estimated AI Cost This Week
 
-🧠 1203 AI Sessions, 22 AI Prompts
+🧠 869 AI Sessions, 18 AI Prompts
 
-OMP                      308 lines           █████████████████████████   100.00 % 
+OMP                      150 lines           █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.69% of written lines came from AI
-📝 Concise Prompter — average 114 characters per prompt
+🧑‍💻 Mostly Hands-On — 7.04% of written lines came from AI
+📝 Concise Prompter — average 104 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 90.93% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.37% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 22:29:31 UTC
+ Last Updated on 28/10/2026 22:45:03 UTC
 <!--END_SECTION:waka-->
