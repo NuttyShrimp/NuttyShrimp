@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C246%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C261%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2036%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,47 +22,47 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       6 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.24 % 
-YAML                     3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-TypeScript               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Docker                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+TypeScript               7 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.93 % 
+Go                       3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+Swift                    2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🐱‍💻 Projects: 
-blueprint                6 hrs 11 mins       ███████████░░░░░░░░░░░░░░   42.41 % 
-join                     5 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
-nucleus                  2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-arbiter                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+join                     10 hrs 4 mins       ████████████████░░░░░░░░░   62.48 % 
+OpenNotes                3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+blueprint                1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+arbiter                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-Linux                    14 hrs 23 mins      █████████████████████████   98.57 % 
-Windows                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Linux                    12 hrs 53 mins      ████████████████████░░░░░   79.86 % 
+Mac                      3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (15.65%)
+⏱ AI Coding Time: 3 hrs 44 mins (23.23%)
 
-✍️ 48 lines written by AI, 830 lines written by hand (5.47% AI-written)
+✍️ 2,086 lines written by AI, 1,301 lines written by hand (61.59% AI-written)
 
-🔤 100,169,489 Input Tokens, 974,969 Output Tokens
+🔤 176,134,071 Input Tokens, 687,838 Output Tokens
 
-💵 $275.61 Estimated AI Cost This Week
+💵 $214.00 Estimated AI Cost This Week
 
-🧠 1449 AI Sessions, 51 AI Prompts
+🧠 1660 AI Sessions, 51 AI Prompts
 
-OMP                      133 lines           █████████████████████████   100.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   1,944 lines         ███████████████████████░░   93.19 % 
+OMP                      142 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.47% of written lines came from AI
-📄 Detailed Prompter — average 1,116 characters per prompt
+⚖️ Balanced with AI — 61.59% of written lines came from AI
+📄 Detailed Prompter — average 965 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 96.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 56.65% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/10/2026 21:47:05 UTC
+ Last Updated on 07/11/2026 12:26:42 UTC
 <!--END_SECTION:waka-->
