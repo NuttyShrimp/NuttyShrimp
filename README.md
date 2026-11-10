@@ -22,47 +22,47 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               5 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.45 % 
-Go                       2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Swift                    2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.63 % 
+Go                       1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Swift                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 🐱‍💻 Projects: 
-join                     9 hrs 23 mins       ████████████████░░░░░░░░░   64.46 % 
-OpenNotes                3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-P1-Dongel-ESP32          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-dotfiles                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+join                     6 hrs 49 mins       █████████████████░░░░░░░░   67.74 % 
+OpenNotes                1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+P1-Dongel-ESP32          1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+dotfiles                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Linux                    11 hrs 18 mins      ███████████████████░░░░░░   77.69 % 
-Mac                      3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Linux                    8 hrs 40 mins       ██████████████████████░░░   86.15 % 
+Mac                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 44 mins (25.74%)
+⏱ AI Coding Time: 2 hrs 30 mins (24.86%)
 
-✍️ 2,086 lines written by AI, 1,227 lines written by hand (62.96% AI-written)
+✍️ 1,669 lines written by AI, 836 lines written by hand (66.63% AI-written)
 
-🔤 176,134,071 Input Tokens, 687,838 Output Tokens
+🔤 125,137,164 Input Tokens, 343,907 Output Tokens
 
-💵 $214.00 Estimated AI Cost This Week
+💵 $170.69 Estimated AI Cost This Week
 
-🧠 1660 AI Sessions, 51 AI Prompts
+🧠 1088 AI Sessions, 23 AI Prompts
 
-Gemini                   1,944 lines         ███████████████████████░░   93.19 % 
-OMP                      142 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Gemini                   1,527 lines         ███████████████████████░░   91.49 % 
+OMP                      142 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.96% of written lines came from AI
-📄 Detailed Prompter — average 965 characters per prompt
+🤖 AI-Driven — 66.63% of written lines came from AI
+📄 Detailed Prompter — average 892 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 54.61% of changed lines were hand-edited
+🚀 High AI Trust — 40.22% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/11/2026 01:42:58 UTC
+ Last Updated on 10/11/2026 23:37:48 UTC
 <!--END_SECTION:waka-->
