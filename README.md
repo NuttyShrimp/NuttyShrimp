@@ -12,9 +12,9 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C262%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C265%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,47 +22,47 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.63 % 
-Go                       1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Swift                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+TypeScript               3 hrs 42 mins       ████████████░░░░░░░░░░░░░   46.44 % 
+Other                    1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Swift                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+C++                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🐱‍💻 Projects: 
-join                     6 hrs 49 mins       █████████████████░░░░░░░░   67.74 % 
-OpenNotes                1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-P1-Dongel-ESP32          1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-dotfiles                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+join                     4 hrs 9 mins        █████████████░░░░░░░░░░░░   52.07 % 
+zapp-suite               1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+P1-Dongel-ESP32          1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Unknown Project          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+dotfiles                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 💻 Operating System: 
-Linux                    8 hrs 40 mins       ██████████████████████░░░   86.15 % 
-Mac                      1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Linux                    6 hrs               ███████████████████░░░░░░   75.31 % 
+Mac                      1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 30 mins (24.86%)
+⏱ AI Coding Time: 1 hr 53 mins (23.81%)
 
-✍️ 1,669 lines written by AI, 836 lines written by hand (66.63% AI-written)
+✍️ 142 lines written by AI, 313 lines written by hand (31.21% AI-written)
 
-🔤 125,137,164 Input Tokens, 343,907 Output Tokens
+🔤 20,754,472 Input Tokens, 56,463 Output Tokens
 
-💵 $170.69 Estimated AI Cost This Week
+💵 $107.65 Estimated AI Cost This Week
 
-🧠 1088 AI Sessions, 23 AI Prompts
+🧠 276 AI Sessions, 19 AI Prompts
 
-Gemini                   1,527 lines         ███████████████████████░░   91.49 % 
-OMP                      142 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Gemini                   698 lines           █████████████████████░░░░   83.10 % 
+OMP                      142 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 66.63% of written lines came from AI
-📄 Detailed Prompter — average 892 characters per prompt
+🧑‍💻 Mostly Hands-On — 31.21% of written lines came from AI
+📝 Concise Prompter — average 206 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 40.22% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 72.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/11/2026 23:37:48 UTC
+ Last Updated on 12/11/2026 00:55:13 UTC
 <!--END_SECTION:waka-->
