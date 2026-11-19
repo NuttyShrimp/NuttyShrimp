@@ -22,48 +22,48 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Other                    1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Java                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Swift                    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Go                       2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.58 % 
+TypeScript               1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Java                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🐱‍💻 Projects: 
-zapp-suite               1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-infisical                1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-auth                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-hydra-android            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-wiki                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+blueprint                1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+infisical                1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+auth                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+wiki                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+ansible-config-sw        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 💻 Operating System: 
-Linux                    4 hrs 30 mins       ████████████████░░░░░░░░░   64.69 % 
-Mac                      2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.31 % 
+Linux                    6 hrs 24 mins       ███████████████████████░░   92.94 % 
+Mac                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 56 mins (56.56%)
+⏱ AI Coding Time: 3 hrs 9 mins (45.9%)
 
-✍️ 3 lines written by AI, 192 lines written by hand (1.54% AI-written)
+✍️ 3 lines written by AI, 337 lines written by hand (0.88% AI-written)
 
-🔤 11,814,690 Input Tokens, 65,251 Output Tokens
+🔤 11,772,273 Input Tokens, 64,690 Output Tokens
 
-💵 $12.26 Estimated AI Cost This Week
+💵 $12.16 Estimated AI Cost This Week
 
-🧠 186 AI Sessions, 38 AI Prompts
+🧠 181 AI Sessions, 31 AI Prompts
 
 OMP                      3 lines             █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Antigravity-Cli          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.54% of written lines came from AI
-📄 Detailed Prompter — average 789 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.88% of written lines came from AI
+📄 Detailed Prompter — average 880 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 98.82% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/11/2026 01:08:47 UTC
+ Last Updated on 19/11/2026 00:38:27 UTC
 <!--END_SECTION:waka-->
