@@ -22,48 +22,47 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.58 % 
-TypeScript               1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Java                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Go                       2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.36 % 
+TypeScript               1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🐱‍💻 Projects: 
-blueprint                1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-infisical                1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-auth                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-wiki                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-ansible-config-sw        23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+blueprint                1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   36.62 % 
+auth                     1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+infisical                1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+ansible-config-sw        23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+wiki                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 💻 Operating System: 
-Linux                    6 hrs 24 mins       ███████████████████████░░   92.94 % 
-Mac                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Linux                    5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 9 mins (45.9%)
+⏱ AI Coding Time: 2 hrs 18 mins (42.64%)
 
-✍️ 3 lines written by AI, 337 lines written by hand (0.88% AI-written)
+✍️ 3 lines written by AI, 256 lines written by hand (1.16% AI-written)
 
-🔤 11,772,273 Input Tokens, 64,690 Output Tokens
+🔤 8,683,513 Input Tokens, 23,671 Output Tokens
 
-💵 $12.16 Estimated AI Cost This Week
+💵 $9.02 Estimated AI Cost This Week
 
-🧠 181 AI Sessions, 31 AI Prompts
+🧠 117 AI Sessions, 23 AI Prompts
 
 OMP                      3 lines             █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Antigravity-Cli          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.88% of written lines came from AI
-📄 Detailed Prompter — average 880 characters per prompt
+🧑‍💻 Mostly Hands-On — 1.16% of written lines came from AI
+📄 Detailed Prompter — average 1,128 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 99.27% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.02% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/11/2026 00:38:27 UTC
+ Last Updated on 20/11/2026 00:46:19 UTC
 <!--END_SECTION:waka-->
