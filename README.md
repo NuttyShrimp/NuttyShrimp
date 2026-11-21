@@ -12,7 +12,7 @@
 <h2>📊 Some stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C269%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C270%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2025%20mins-blue?style=flat)
 
@@ -22,47 +22,45 @@
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Go                       2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.36 % 
-TypeScript               1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Go                       2 hrs 35 mins       ███████████████░░░░░░░░░░   58.18 % 
+TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🐱‍💻 Projects: 
-blueprint                1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   36.62 % 
-auth                     1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-infisical                1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-ansible-config-sw        23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-wiki                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+blueprint                2 hrs 23 mins       █████████████░░░░░░░░░░░░   53.73 % 
+auth                     1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+wiki                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+ansible-config-sw        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Linux                    5 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 18 mins (42.64%)
+⏱ AI Coding Time: 57 mins (21.65%)
 
-✍️ 3 lines written by AI, 256 lines written by hand (1.16% AI-written)
+✍️ 0 lines written by AI, 236 lines written by hand (0.0% AI-written)
 
-🔤 8,683,513 Input Tokens, 23,671 Output Tokens
+🔤 33,728 Input Tokens, 1,420 Output Tokens
 
-💵 $9.02 Estimated AI Cost This Week
+💵 $1.47 Estimated AI Cost This Week
 
-🧠 117 AI Sessions, 23 AI Prompts
+🧠 2 AI Sessions, 17 AI Prompts
 
-OMP                      3 lines             █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Antigravity-Cli          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.16% of written lines came from AI
-📄 Detailed Prompter — average 1,128 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 99.02% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,487 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/11/2026 00:46:19 UTC
+ Last Updated on 21/11/2026 00:05:14 UTC
 <!--END_SECTION:waka-->
